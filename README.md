@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonweizmann
 - 👀 I’m interested in gaming, reading and music
-- 🌱 I’m currently learning c++, python
+- 🌱 I’m currently learning c++, python, godot
 - 📫 How to reach me anton@weizmann.de
 
 <!---
